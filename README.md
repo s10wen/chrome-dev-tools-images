@@ -1,6 +1,13 @@
 chrome-dev-tools-images
 =======================
 
+Taken from:
+<https://chromium.googlesource.com/chromium/blink/+/master/Source/devtools/front_end/Images/>
+
+Would be nice if the above link allowed you to see an overview of the images as per below:
+
+***
+
 Chrome Dev Tools Images available at:
 `chrome-devtools://devtools/Images/`
 
